@@ -1,0 +1,40 @@
+body, html {
+    color: #373F4A;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container {
+	width: 215px;
+	margin: auto;
+}
+.form-field label {
+	font-weight: bold;
+	display: block;
+}
+.form-field input[type=text] {
+	border: 2px solid #dadada;
+	padding: 10px 8px;
+	font-size: 16px;
+	border-radius: 3px;
+	display: block;
+	margin-bottom: 5px;
+}
+button {
+	background: #50c532;
+	border: none;
+	padding: 10px;
+	width: 100%;
+	margin: auto;
+	display: block;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	border-radius: 4px;
+	margin-top: 15px;
+	cursor: pointer;
+}
+h1 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}

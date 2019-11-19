@@ -1,0 +1,14 @@
+{
+    "name": "wepay/simple-cc-integration",
+    "description": "Simple credit card integration using WePay",
+    "type": "project",
+    "require": {
+        "wepay/php-sdk": "^0.3.1"
+    },
+    "authors": [
+        {
+            "name": "pablogarban",
+            "email": "pa@garban.dev"
+        }
+    ]
+}
